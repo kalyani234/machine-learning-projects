@@ -12,5 +12,5 @@ Matplotlib
 Data Preprocessing
 
 
-Apache spark Machine learning project of housing predecting house prices
+Apache spark Machine learning project of housing predecting house prices and applying Linear Regression
 
